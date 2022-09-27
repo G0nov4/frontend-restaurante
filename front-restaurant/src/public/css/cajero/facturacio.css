@@ -1,0 +1,13 @@
+.titulo{
+    margin: 20px 30px;
+}
+.buscador{
+
+    padding: 20px;
+    justify-content: auto;
+}
+
+.botones{
+    width: 174px;
+    overflow: auto;
+}
